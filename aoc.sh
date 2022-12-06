@@ -1,0 +1,1 @@
+ruby src/day$1/index.rb

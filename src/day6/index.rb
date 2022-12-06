@@ -4,7 +4,7 @@ include Day
     @@dayNumber = 6
 
     def solveOne
-        input = readFile
+        input = readAllFile
         s=0
         chunk=4
         while true
@@ -18,7 +18,7 @@ include Day
     end
 
     def solveTwo
-        input = readFile
+        input = readAllFile
         s=0
         chunk=14
         while true
